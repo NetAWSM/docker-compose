@@ -30,3 +30,5 @@ services:
 
 networks:
   gitlab_net:
+
+## docker exec -it 381 grep 'Password:' /etc/gitlab/initial_root_password
